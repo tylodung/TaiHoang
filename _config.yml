@@ -1,9 +1,9 @@
 # Site settings
-title: "Miền Đảo vắng"
-url-title: "Điểm hẹn Quê Hương"
-description: "Phú Quốc và Đoàn Bình"
+title: "Phú Quốc Đảo"
+url-title: "Điểm hẹn Phú Quốc"
+description: "Phú Quốc và nơi hẹn hò"
 paginate: 100
-url: "https://tinphim247.xyz"
+url: "https://site-mau-1.netlify.com"
 permalink: /:year/:month/:title/
 future: false
 defaults:
